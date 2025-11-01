@@ -180,7 +180,7 @@ class _PostListPageState extends State<PostListPage> {
             'Daftar Post',
             style: Theme.of(
               context,
-            ).textTheme.headlineMedium?.copyWith(fontWeight: FontWeight.bold),
+            ).textTheme.headlineSmall?.copyWith(fontWeight: FontWeight.bold),
           ),
           IconButton(
             icon: const Icon(Icons.logout_rounded),

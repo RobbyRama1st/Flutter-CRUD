@@ -85,7 +85,7 @@ class _PostFormPageState extends State<PostFormPage> {
             }
           },
           child: SingleChildScrollView(
-            padding: const EdgeInsets.all(24.0),
+            padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 24),
             child: Form(
               key: _formKey,
               child: Column(
