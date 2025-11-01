@@ -1,8 +1,14 @@
 # Flutter BLoC CRUD Application
 
-Sebuah aplikasi seluler demo yang dibangun dengan Flutter untuk mendemonstrasikan alur kerja otentikasi dan CRUD (Create, Read, Update, Delete). Proyek ini menggunakan BLoC untuk _state management_ dan berinteraksi dengan API publik `dummyjson.com`.
+Sebuah aplikasi mobile yang dibangun dengan Flutter untuk mendemonstrasikan alur kerja otentikasi dan CRUD (Create, Read, Update, Delete). Proyek ini menggunakan BLoC untuk _state management_ dan berinteraksi dengan API publik `dummyjson.com`.
 
 Aplikasi ini dirancang dengan UI yang modern, bersih, dan konsisten, menampilkan efek _glassmorphism_ dan komponen kustom yang serasi di semua layar.
+
+## 📱 Coba Aplikasinya (Unduh APK)
+
+Unduh dan instal APK untuk pengujian langsung pada perangkat Android melalui tautan di bawah ini:
+
+**➡️ [Unduh APK via Diawi](https://i.diawi.com/M1ha3m)**
 
 ## ✨ Fitur Utama
 
@@ -66,8 +72,8 @@ Struktur proyek dibagi menjadi tiga lapisan utama:
 1.  **Clone repositori:**
 
     ```bash
-    git clone []
-    cd []
+    git clone "https://github.com/RobbyRama1st/Flutter-CRUD/"
+    cd [nama_proyek]
     ```
 
 2.  **Instal dependensi:**
@@ -104,3 +110,4 @@ Aplikasi ini dirancang untuk menangani skenario nyata. Alurnya adalah sebagai be
 9.  UI me-render ulang, dan post yang "dihapus" tadi muncul kembali.
 
 Perilaku ini **diharapkan** dan **membuktikan bahwa alur _state_ aplikasi (Loading -> Sukses -> Refresh) berfungsi dengan benar.** Hal yang sama berlaku untuk `POST` (Add) dan `PUT` (Update).
+
