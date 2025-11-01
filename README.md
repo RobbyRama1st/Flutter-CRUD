@@ -8,7 +8,7 @@ Aplikasi ini dirancang dengan UI yang modern, bersih, dan konsisten, menampilkan
 
 Unduh dan instal APK untuk pengujian langsung pada perangkat Android melalui tautan di bawah ini:
 
-**➡️ [Unduh APK via Diawi](https://i.diawi.com/M1ha3m)**
+**➡️ [Unduh APK via Diawi](https://i.diawi.com/e6qQNt)**
 
 ## ✨ Fitur Utama
 
